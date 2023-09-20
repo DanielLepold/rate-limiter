@@ -1,0 +1,10 @@
+.env
+bin
+obj
+.idea
+.vscode
+.DS_Store
+.fake
+.ionide
+Properties
+*.sln.DotSettings.user
