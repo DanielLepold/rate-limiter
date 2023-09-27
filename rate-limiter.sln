@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "rate-limiter", "rate-limiter.fsproj", "{8B531925-6590-4A03-A9E2-39BA5E665CF2}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "rate-limiter", "rate-limiter\rate-limiter.fsproj", "{8B531925-6590-4A03-A9E2-39BA5E665CF2}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "test", "test\test.fsproj", "{84724BD8-FFA5-4A27-802D-8600E91D0D92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,7 @@ Global
 		{8B531925-6590-4A03-A9E2-39BA5E665CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B531925-6590-4A03-A9E2-39BA5E665CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B531925-6590-4A03-A9E2-39BA5E665CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84724BD8-FFA5-4A27-802D-8600E91D0D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84724BD8-FFA5-4A27-802D-8600E91D0D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal

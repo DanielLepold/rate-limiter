@@ -6,7 +6,10 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Program.fs"/>
+      <Compile Include="Common.fs" />
+      <Compile Include="TokenBucket.fs" />
+      <Compile Include="FixedWindowCounter.fs" />
+      <Compile Include="Program.fs" />
     </ItemGroup>
 
 </Project>
